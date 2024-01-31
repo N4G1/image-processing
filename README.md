@@ -36,3 +36,10 @@ python-dateutil==2.8.2
 scipy==1.11.1
 six==1.16.0
 ```
+
+### Run the program
+- `cd` into `ẁorkshop-1` directory: `cd workshop-1`
+- run `main.py` script: `python3 main.py`
+- you should get the following output:
+
+![image](https://github.com/N4G1/image-processing/assets/10486712/be920c0a-414b-4280-96e8-c13a8a89301f)
